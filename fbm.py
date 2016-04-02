@@ -43,7 +43,8 @@ SUBS = {
     "smile emoticon": "😃",
     "wink emoticon": "😉",
     "frown emoticon": "☹",
-    "tongue emoticon": "👅"
+    "tongue emoticon": "👅",
+    "confused emoticon": "😕"
 }
 
 def process(line):
